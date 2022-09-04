@@ -1,9 +1,8 @@
 body{
     margin: 0px;
-    padding-top:800px;
+    padding-top:609px;
 }
 nav{
-    position:fixed;
     top:0px;
     left:0px;
     width: 100%;
@@ -17,6 +16,7 @@ nav{
     height:65vh;
     background-size: cover;
     background-position: center;  
+    margin-top: -32.5%;
 }
 nav .logo{
     padding-top: 22px;
@@ -266,7 +266,47 @@ padding-left:0px;
     height: 1000%;
     background-color: black;
 }
+.gadgetsnow{
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.newyorkpost
+{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.charmander{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+}
+.charmelion{
+    margin-left: 340px;
+    width: 250px;
+    height: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.charizard{
+    margin-top:-350px;
+    margin-left:630px;
+    width: 300px;
+    height: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.swampert{
+    margin-left:970px;
+    margin-top:-350px;
+    width: 300px;
+    height: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
-
-
-
+}
+.mewtow{
+    margin-left:1250px;
+    margin-top:-350px;
+    width: 400px;
+    height: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
