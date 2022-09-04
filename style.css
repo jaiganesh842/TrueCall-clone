@@ -1,0 +1,272 @@
+body{
+    margin: 0px;
+    padding-top:800px;
+}
+nav{
+    position:fixed;
+    top:0px;
+    left:0px;
+    width: 100%;
+    height:100px;
+    padding: 10px 90px;
+    box-sizing: border-box;
+    background:white;
+    border-bottom: 1px;
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ),url(./images/girl.jpg);
+    width:100%;
+    height:65vh;
+    background-size: cover;
+    background-position: center;  
+}
+nav .logo{
+    padding-top: 22px;
+    padding-left: 250px;
+    height: 80px;
+    float:left;
+    font-size: 29px;
+    font-weight:bold;
+    color: white;
+    font-family: 'Calligraffitti', cursive;
+}
+nav .logo1{
+    padding-top: 24px;
+    padding-left: 1px;
+    height: 80px;
+    float:left;
+    font-size: 29px;
+    font-weight:900;
+    color: white;
+    font-family:sans-serif;
+}
+nav ul{
+    margin-top: 10px;
+    list-style: none;
+    float:right;
+    margin: 0;
+    padding-right:10.5%;
+    display: flex; 
+}
+nav ul li a  {
+    line-height: 80px;
+    padding-left: 25px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bolder;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+.about{
+    padding-right: 25px;
+}
+
+.dropbtn{
+    margin-top: 29px;
+    background-color: none;
+    color: white;
+    background: rgba(0, 0, 0, 0);
+    border: none;
+    outline: none;
+    font-size:15px;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+.dropdown-content 
+{
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 300px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius: 10px;
+}
+  .dropdown 
+{
+    position: relative;
+    display: inline-block;
+}
+  .dropdown:hover .dropdown-content {display: block;}
+
+  .dropdown-content a
+{
+    color: black;
+    font-family: 'Inter', sans-serif;
+}
+
+  h1
+{
+   margin-top: 110px;
+   margin-left: 250px;
+   font-size: 64px;
+   color: white;
+   margin-bottom: 0px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+  .comeon
+{
+    margin-top: 14px;
+    background:rgb(42, 126, 244);
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    width:120%;
+    height:50px;
+    color: white;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 15px;
+}
+  .for
+{
+    margin-right: 350px;
+}
+.signin
+{
+padding-left:0px;
+}
+.serchbar
+{
+    margin-left: 250px;
+    margin-top:20px;
+    height: 86px;
+    width: 33%; 
+    background:rgb(255, 251, 251);
+    border-radius: 50px;
+}
+.search
+{
+    width: 250px;
+    border: 0;
+    outline: 10px;
+    font-size: 19px;
+    color:black;
+    margin-left: 60px;
+    margin-top: 29px;
+    text-align:left;
+    margin-right: 0px;
+    background-color:white;
+}
+.icons{
+    margin-left:85% ;
+    margin-top: -48px;
+    font-size: 25px;
+    background-color: rgba(20, 122, 170, 0.98);
+    border-radius: 50%;
+    width:78px;
+    height: 60%;
+    text-align: center;
+    padding-top: 24px;
+    color: rgba(255, 255, 255, 0.94);
+}
+.cnumber{
+    width: 70px;
+    margin-left: +20px;
+    color: blue;
+    font-size: 15px;
+    border: 0;
+    outline:white;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.0);
+    background-color: white;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.cnumber option{
+    color: black;
+}
+.playstore{
+    text-decoration: none;
+}
+.playstore1{
+    margin-top: 30px;
+    margin-left:250px;
+    border-radius:50px;
+    color: black;
+    height: 60px;
+    width: 180px;
+    background-color: white;
+}
+.aa{
+       margin-left: 60px;
+       margin-top:-34px;
+       font-weight:50;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-size: 15px;
+       letter-spacing: 1px;
+}
+.rating{
+    margin-left: 60px;
+    font-weight: bold;
+    font-weight:50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.playi{
+    margin-left:20px;
+    margin-top: 20px;
+}
+.appstore{
+    text-decoration: none;
+}
+.appstore1{
+    margin-top: -60px;
+    margin-left:440px;
+    color: black;
+    height: 60px;
+    width: 180px;
+    background-color: white;
+    border-radius:50px;
+}
+.bb{
+    margin-left: 64px;
+    margin-top: -34px;
+    font-weight:50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.rating1{
+    margin-left:64px;
+    font-weight: bold;
+    font-weight:50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.appi{
+    margin-left: 20px;
+    margin-top:15px;
+}
+.downl{
+    text-decoration: none;
+}
+.downl1{
+    margin-left: 631px;
+    margin-top:-61px;
+    color: black;
+    height: 60px;
+    width: 180px;
+    background-color: white;
+    border-radius:50px;
+}
+.cc{
+    margin-left: 58px;
+    margin-top: -29px;
+    font-weight:50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+.down2{
+    margin-top: 18px;
+    margin-left: 18px;
+    border-radius: 5px;
+}
+.new{
+    width: 1000%;
+    height: 1000%;
+    background-color: black;
+}
+
+
+
+
