@@ -310,3 +310,27 @@ padding-left:0px;
     height: 350px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.venusar{
+    margin-left: 500px;
+    margin-top:50px;
+}
+.bulbasur1{
+    margin-left:-42px;
+}
+.bulbasur{
+    width:450px;
+    height:70px;
+    margin-left:2px;
+}
+.hmm{
+    margin-top: 20px;
+    margin-left: 20px
+}
+.bulbasur1 li:hover{
+    cursor: pointer;
+    background-color:white;
+}
+.meganium{
+    margin-left: 800px;
+    margin-top:-550px;
+}
