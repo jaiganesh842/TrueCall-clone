@@ -13,6 +13,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/41f04730dd.js" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="./app.js" ></script>
     <title>TrueCaller</title>
 </head>
 
@@ -370,32 +371,36 @@
             </div>
             <div class="bulbasur1">
                 <ul style="list-style:none" >
-                    <li class="bulbasur">
+                    <li class="bulbasur" onmouseenter="changeimg('images/caller_id.avif')">
                         <img class="hmm" src="./images/feature-icon-caller-id.svg" width="35" height="35" >
                         <h4 style="margin-left:70px;margin-top:-40px;">Caller ID</h4>
                         <p style="margin-left:70px;margin-top:-20px;">Identify incoming calls from unknown numbers</p>
                     </li>
                     
-                    <li class="bulbasur">
+                    <li class="bulbasur" onmouseenter="changeimg('images/spam_blocking.avif')" >
                         <img class="hmm" src="./images/feature-icon-spam.svg" width="35" height="35" >
                         <h4 style="margin-left:70px;margin-top:-40px;">Spam Blocking</h4>
                         <p style="margin-left:70px;margin-top:-20px;">Block Numbers</p>
                     </li>
-                    <li class="bulbasur">
+                    <li class="bulbasur" onmouseenter="changeimg('images/organized_inbox.avif')" >
                         <img class="hmm" src="./images/feature-icon-inbox.svg" width="35" height="35" >
                         <h4 style="margin-left:70px;margin-top:-40px;">Organized and spam-free Inbox</h4>
                         <p style="margin-left:70px;margin-top:-20px;">Keep your SMS inbox clean</p>
                     </li>
-                    <li class="bulbasur">
+                    <li class="bulbasur" onmouseenter="changeimg('images/messaging.avif')" >
                         <img class="hmm" src="./images/feature-icon-spam.svg" width="35" height="35" >
                         <h4 style="margin-left:70px;margin-top:-40px;">Messaging</h4>
                         <p style="margin-left:70px;margin-top:-20px;">No need to switch to other apps</p>
                     </li>
                 </ul>
-                <img class="meganium" src="./images/caller_id.avif" height="600">
+                <div class="image-area">
+                    <img class="meganium" id="slider" src="./images/caller_id.avif" height="600">
+                </div>
+               
             </div>
         </div>
     </div>
+    
 </body>
 
 </html>
