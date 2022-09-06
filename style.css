@@ -5,18 +5,16 @@ body{
 nav{
     top:0px;
     left:0px;
-    width: 100%;
-    height:100px;
+    width: 1875px;
+    height:600px;
     padding: 10px 90px;
     box-sizing: border-box;
     background:white;
     border-bottom: 1px;
     background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ),url(./images/girl.jpg);
-    width:100%;
-    height:65vh;
     background-size: cover;
     background-position: center;  
-    margin-top: -32.5%;
+    margin-top:-609px ;
 }
 nav .logo{
     padding-top: 22px;
@@ -43,7 +41,7 @@ nav ul{
     list-style: none;
     float:right;
     margin: 0;
-    padding-right:10.5%;
+    padding-right:240px;
     display: flex; 
 }
 nav ul li a  {
@@ -110,7 +108,7 @@ nav ul li a  {
     outline: none;
     border: none;
     border-radius: 30px;
-    width:120%;
+    width:170px;
     height:50px;
     color: white;
     font-weight: bold;
@@ -130,7 +128,7 @@ padding-left:0px;
     margin-left: 250px;
     margin-top:20px;
     height: 86px;
-    width: 33%; 
+    width: 570px; 
     background:rgb(255, 251, 251);
     border-radius: 50px;
 }
@@ -148,13 +146,13 @@ padding-left:0px;
     background-color:white;
 }
 .icons{
-    margin-left:85% ;
+    margin-left:485px;
     margin-top: -48px;
     font-size: 25px;
     background-color: rgba(20, 122, 170, 0.98);
-    border-radius: 50%;
+    border-radius:50px;
     width:78px;
-    height: 60%;
+    height: 50px;
     text-align: center;
     padding-top: 24px;
     color: rgba(255, 255, 255, 0.94);
@@ -260,11 +258,6 @@ padding-left:0px;
     margin-top: 18px;
     margin-left: 18px;
     border-radius: 5px;
-}
-.new{
-    width: 1000%;
-    height: 1000%;
-    background-color: black;
 }
 .gadgetsnow{
     margin-top: 50px;
