@@ -41,7 +41,7 @@ nav ul{
     list-style: none;
     float:right;
     margin: 0;
-    padding-right:240px;
+    padding-right:200px;
     display: flex; 
 }
 nav ul li a  {
@@ -311,7 +311,7 @@ padding-left:0px;
     margin-left:-42px;
 }
 .bulbasur{
-    width:450px;
+    width:480px;
     height:70px;
     margin-left:2px;
 }
