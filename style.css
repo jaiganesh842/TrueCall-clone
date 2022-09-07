@@ -1,50 +1,55 @@
-body{
+body {
     margin: 0px;
-    padding-top:609px;
+    padding-top: 609px;
 }
-nav{
-    top:0px;
-    left:0px;
-    width: 1875px;
-    height:600px;
+
+nav {
+    top: 0px;
+    left: 0px;
+    width: 1881px;
+    height: 600px;
     padding: 10px 90px;
     box-sizing: border-box;
-    background:white;
+    background: white;
     border-bottom: 1px;
-    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ),url(./images/girl.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./images/girl.jpg);
     background-size: cover;
-    background-position: center;  
-    margin-top:-609px ;
+    background-position: center;
+    margin-top: -609px;
 }
-nav .logo{
+
+nav .logo {
     padding-top: 22px;
     padding-left: 250px;
     height: 80px;
-    float:left;
+    float: left;
     font-size: 29px;
-    font-weight:bold;
+    font-weight: bold;
     color: white;
     font-family: 'Calligraffitti', cursive;
 }
-nav .logo1{
+
+nav .logo1 {
     padding-top: 24px;
     padding-left: 1px;
     height: 80px;
-    float:left;
+    float: left;
     font-size: 29px;
-    font-weight:900;
+    font-weight: 900;
     color: white;
-    font-family:sans-serif;
+    font-family: sans-serif;
 }
-nav ul{
+
+nav ul {
     margin-top: 10px;
     list-style: none;
-    float:right;
+    float: right;
     margin: 0;
-    padding-right:200px;
-    display: flex; 
+    padding-right: 200px;
+    display: flex;
 }
-nav ul li a  {
+
+nav ul li a {
     line-height: 80px;
     padding-left: 25px;
     text-decoration: none;
@@ -54,276 +59,515 @@ nav ul li a  {
     font-family: 'Inter', sans-serif;
 }
 
-.about{
+.about {
     padding-right: 25px;
 }
 
-.dropbtn{
+.dropbtn {
     margin-top: 29px;
     background-color: none;
     color: white;
     background: rgba(0, 0, 0, 0);
     border: none;
     outline: none;
-    font-size:15px;
+    font-size: 15px;
     font-weight: bold;
     font-family: 'Inter', sans-serif;
 }
-.dropdown-content 
-{
-  display: none;
-  position: absolute;
-  background-color: white;
-  min-width: 300px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-  border-radius: 10px;
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 300px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    border-radius: 10px;
 }
-  .dropdown 
-{
+
+.dropdown {
     position: relative;
     display: inline-block;
 }
-  .dropdown:hover .dropdown-content {display: block;}
 
-  .dropdown-content a
-{
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-content a {
     color: black;
     font-family: 'Inter', sans-serif;
 }
 
-  h1
-{
-   margin-top: 110px;
-   margin-left: 250px;
-   font-size: 64px;
-   color: white;
-   margin-bottom: 0px;
-   font-family:Verdana, Geneva, Tahoma, sans-serif;
+h1 {
+    margin-top: 110px;
+    margin-left: 250px;
+    font-size: 64px;
+    color: white;
+    margin-bottom: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-  .comeon
-{
+
+.comeon {
     margin-top: 14px;
-    background:rgb(42, 126, 244);
+    background: rgb(42, 126, 244);
     outline: none;
     border: none;
     border-radius: 30px;
-    width:170px;
-    height:50px;
+    width: 170px;
+    height: 50px;
     color: white;
     font-weight: bold;
     margin-left: 20px;
     font-size: 15px;
 }
-  .for
-{
+
+.for {
     margin-right: 350px;
 }
-.signin
-{
-padding-left:0px;
+
+.signin {
+    padding-left: 0px;
 }
-.serchbar
-{
+
+.serchbar {
     margin-left: 250px;
-    margin-top:20px;
+    margin-top: 20px;
     height: 86px;
-    width: 570px; 
-    background:rgb(255, 251, 251);
+    width: 570px;
+    background: rgb(255, 251, 251);
     border-radius: 50px;
 }
-.search
-{
+
+.search {
     width: 250px;
     border: 0;
     outline: 10px;
     font-size: 19px;
-    color:black;
+    color: black;
     margin-left: 60px;
     margin-top: 29px;
-    text-align:left;
+    text-align: left;
     margin-right: 0px;
-    background-color:white;
+    background-color: white;
 }
-.icons{
-    margin-left:485px;
+
+.icons {
+    margin-left: 485px;
     margin-top: -48px;
     font-size: 25px;
     background-color: rgba(20, 122, 170, 0.98);
-    border-radius:50px;
-    width:78px;
+    border-radius: 50px;
+    width: 78px;
     height: 50px;
     text-align: center;
     padding-top: 24px;
     color: rgba(255, 255, 255, 0.94);
 }
-.cnumber{
+
+.cnumber {
     width: 70px;
     margin-left: +20px;
     color: blue;
     font-size: 15px;
     border: 0;
-    outline:white;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.0);
+    outline: white;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.0);
     background-color: white;
     -webkit-appearance: none;
     -moz-appearance: none;
 }
-.cnumber option{
+
+.cnumber option {
     color: black;
 }
-.playstore{
+
+.playstore {
     text-decoration: none;
 }
-.playstore1{
+
+.playstore1 {
     margin-top: 30px;
-    margin-left:250px;
-    border-radius:50px;
+    margin-left: 250px;
+    border-radius: 50px;
     color: black;
     height: 60px;
     width: 180px;
     background-color: white;
 }
-.aa{
-       margin-left: 60px;
-       margin-top:-34px;
-       font-weight:50;
-       font-family: Verdana, Geneva, Tahoma, sans-serif;
-       font-size: 15px;
-       letter-spacing: 1px;
+
+.aa {
+    margin-left: 60px;
+    margin-top: -34px;
+    font-weight: 50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    letter-spacing: 1px;
 }
-.rating{
+
+.rating {
     margin-left: 60px;
     font-weight: bold;
-    font-weight:50;
+    font-weight: 50;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
 }
-.playi{
-    margin-left:20px;
+
+.playi {
+    margin-left: 20px;
     margin-top: 20px;
 }
-.appstore{
+
+.appstore {
     text-decoration: none;
 }
-.appstore1{
+
+.appstore1 {
     margin-top: -60px;
-    margin-left:440px;
+    margin-left: 440px;
     color: black;
     height: 60px;
     width: 180px;
     background-color: white;
-    border-radius:50px;
+    border-radius: 50px;
 }
-.bb{
+
+.bb {
     margin-left: 64px;
     margin-top: -34px;
-    font-weight:50;
+    font-weight: 50;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     letter-spacing: 1px;
 }
-.rating1{
-    margin-left:64px;
+
+.rating1 {
+    margin-left: 64px;
     font-weight: bold;
-    font-weight:50;
+    font-weight: 50;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
 }
-.appi{
+
+.appi {
     margin-left: 20px;
-    margin-top:15px;
+    margin-top: 15px;
 }
-.downl{
+
+.downl {
     text-decoration: none;
 }
-.downl1{
+
+.downl1 {
     margin-left: 631px;
-    margin-top:-61px;
+    margin-top: -61px;
     color: black;
     height: 60px;
     width: 180px;
     background-color: white;
-    border-radius:50px;
+    border-radius: 50px;
 }
-.cc{
+
+.cc {
     margin-left: 58px;
     margin-top: -29px;
-    font-weight:50;
+    font-weight: 50;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     letter-spacing: 1px;
 }
-.down2{
+
+.down2 {
+    width : 28px;
+    height : 28px;
     margin-top: 18px;
     margin-left: 18px;
     border-radius: 5px;
 }
-.gadgetsnow{
+
+.gadgetsnow {
     margin-top: 50px;
     margin-left: 400px;
 }
-.newyorkpost
-{
+
+.newyorkpost {
     margin-top: 50px;
     margin-left: 40px;
 }
-.charmander{
+
+.charmander {
     text-align: center;
     padding-top: 70px;
     font-size: 45px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight:bolder;
+    font-weight: bolder;
 }
-.charmelion{
+
+.charmelion {
     margin-left: 340px;
     width: 250px;
     height: 350px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.charizard{
-    margin-top:-350px;
-    margin-left:630px;
+
+.charizard {
+    margin-top: -350px;
+    margin-left: 630px;
     width: 300px;
     height: 350px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.swampert{
-    margin-left:970px;
-    margin-top:-350px;
+
+.swampert {
+    margin-left: 950px;
+    margin-top: -350px;
     width: 300px;
     height: 350px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-.mewtow{
-    margin-left:1250px;
-    margin-top:-350px;
+
+.mewtow {
+    margin-left: 1250px;
+    margin-top: -350px;
     width: 400px;
     height: 350px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.venusar{
+
+.venusar {
     margin-left: 500px;
-    margin-top:50px;
+    margin-top: 50px;
 }
-.bulbasur1{
-    margin-left:-42px;
+
+.bulbasur1 {
+    margin-left: -42px;
 }
-.bulbasur{
-    width:480px;
-    height:70px;
-    margin-left:2px;
+
+.bulbasur {
+    width: 480px;
+    height: 70px;
+    margin-left: 2px;
 }
-.hmm{
+
+.hmm {
     margin-top: 20px;
     margin-left: 20px
 }
-.bulbasur1 li:hover{
+
+.bulbasur1 li:hover {
     cursor: pointer;
+    background-color: white;
+}
+
+.meganium {
+    margin-left: 800px;
+    margin-top: -550px;
+}
+
+#hii{
+    font-size:20px;
+    color:rgb(253, 253, 253)'
+}
+
+.Lernmore {
+    border-color: rgb(10, 123, 204);
+    color: blue;
+    background: rgba(0, 0, 0, 0);
+}
+.ariana{
+    height: 120px;
+    width: 1400px;
     background-color:white;
 }
-.meganium{
-    margin-left: 800px;
-    margin-top:-550px;
+.dia{
+    height:1200px;
+    width: 1875px;
+    background-color:rgb(230, 248, 242);
+    justify-content: center;
+}
+.charmelion1{
+    margin-left:18px ;
+    height:210px
+}
+.charmelion2{
+    padding-left:24px;
+    font-size:16px;
+    margin-top:-10px;
+}
+.charmelion3{
+    text-align:center;
+    font-size:14px;
+    margin-top:-10px;
+}
+.charizard1{
+    margin-left:45px;
+    height:210px
+}
+.mewtow1{
+    margin-left:90px;
+    height:210px
+}
+
+.venusar1{
+    color:rgb(17, 159, 235);
+    font-size:25px;
+    font-weight:bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif"
+}
+.venusar2{
+    font-size:50px;
+    margin-top:-2px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(49, 48, 48);
+}
+.venusar3{
+    font-size:17px;
+    margin-top:-38px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+@media screen and (max-width:1540px) {
+    nav {
+        width: 1515px;
+        height: 500px;
+    }
+
+    nav .logo {
+        padding-top: 10px;
+        padding-left: 50px;
+        font-size: 25px;
+    }
+
+    nav .logo1 {
+        padding-top: 10px;
+        font-size: 25px;
+    }
+
+    nav ul {
+        padding-right: 50px;
+        margin-top: -10px;
+    }
+
+    h1 {
+        margin-left: 50px;
+        font-size: 45px;
+    }
+
+    .comeon {
+        height: 40px;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+
+    .serchbar {
+        margin-left: 50px;
+        height: 80px;
+    }
+
+    .icons {
+        margin-left: 487px;
+        margin-top: -47px;
+        height: 45px;
+    }
+
+    .playstore1 {
+        margin-left: 50px;
+    }
+
+    .aa {
+        font-size: 12px;
+    }
+
+    .appstore1 {
+        margin-left: 240px;
+    }
+
+    .bb {
+        font-size: 13px;
+    }
+
+    .downl1 {
+        margin-left: 431px;
+    }
+
+    .cc {
+        margin-top: -25px;
+        font-size: 13px;
+    }
+
+    .gadgetsnow {
+        margin-left: 260px;
+    }
+
+    .charmelion {
+        margin-left: 200px;
+    }
+
+    .charizard {
+        margin-left: 450px;
+    }
+
+    .swampert {
+        margin-left: 750px;
+    }
+
+    .mewtow {
+        margin-left: 1040px;
+    }
+
+    .venusar {
+        margin-left: 200px;
+    }
+
+    .meganium {
+        margin-left: 850px;
+    }
+    #hii{
+        font-size:15px;
+    }
+    .rating{
+        font-size:13px;
+    }
+    .rating1{
+        font-size:13px;
+    }
+    .down2 {
+        width : 23px;
+        height : 23px;
+    }
+    .ariana{
+        height:100px;
+        width: 1515px;
+        margin-top:20px
+    }
+    .dia{
+        height:1300px;
+        width: 1515px;
+    }
+    .charmelion1{
+        height:190px;
+    }
+    .charmelion2{
+        font-size:15px;
+    }
+    .charmelion3{
+        font-size:15px;
+    }
+    .charizard1{
+        height:190px
+    }
+    .mewtow1{
+        height:190px
+    }
+    .venusar1{
+        font-size:20px;
+    }
+    .venusar2{
+        font-size:40px; 
+    }
+    .venusar3{
+        font-size:15px;
+        margin-top:-25px;
+    }
 }
