@@ -1,0 +1,166 @@
+@media screen and (max-width:1540px) {
+    nav {
+        width: 1515px;
+        height: 500px;
+    }
+
+    nav .logo {
+        padding-top: 10px;
+        padding-left: 50px;
+        font-size: 25px;
+    }
+
+    nav .logo1 {
+        padding-top: 10px;
+        font-size: 25px;
+    }
+
+    nav ul {
+        padding-right: 50px;
+        margin-top: -10px;
+    }
+
+    h1 {
+        margin-top: 90px;
+        margin-left: 50px;
+        font-size: 60px;
+    }
+
+    .comeon {
+        height: 40px;
+        margin-left: 10px;
+        font-size: 12px;
+    }
+
+    .serchbar {
+        margin-left: 50px;
+        height: 80px;
+    }
+
+    .icons {
+        margin-left: 487px;
+        margin-top: -47px;
+        height: 45px;
+    }
+
+    .playstore1 {
+        margin-left: 50px;
+    }
+
+    .aa {
+        font-size: 12px;
+    }
+
+    .appstore1 {
+        margin-left: 240px;
+    }
+
+    .bb {
+        font-size: 13px;
+    }
+
+    .downl1 {
+        margin-left: 431px;
+    }
+
+    .cc {
+        margin-top: -25px;
+        font-size: 13px;
+    }
+
+    .gadgetsnow {
+        margin-left: 260px;
+    }
+
+    .charmelion {
+        margin-left: 200px;
+    }
+
+    .charizard {
+        margin-left: 450px;
+    }
+
+    .swampert {
+        margin-left: 750px;
+    }
+
+    .mewtow {
+        margin-left: 1040px;
+    }
+
+    .venusar {
+        margin-left: 200px;
+    }
+
+    .meganium {
+        margin-left: 850px;
+    }
+    #hii{
+        font-size:15px;
+    }
+    .rating{
+        font-size:13px;
+    }
+    .rating1{
+        font-size:13px;
+    }
+    .down2 {
+        width : 23px;
+        height : 23px;
+    }
+    .ariana{
+        height:100px;
+        width: 1515px;
+        margin-top:20px
+    }
+    .dia{
+        height:1300px;
+        width: 1515px;
+    }
+    .charmelion1{
+        height:190px;
+    }
+    .charmelion2{
+        font-size:15px;
+    }
+    .charmelion3{
+        font-size:15px;
+    }
+    .charizard1{
+        height:190px
+    }
+    .mewtow1{
+        height:190px
+    }
+    .venusar1{
+        font-size:20px;
+    }
+    .venusar2{
+        font-size:40px; 
+    }
+    .venusar3{
+        font-size:15px;
+        margin-top:-25px;
+    }
+    .stungfisk{
+        width: 1515px;
+        height: 600px;
+    }
+    .stungfisk1{
+        margin-left:200px;
+    }
+    .stungfisk2{
+        margin-left:200px;
+    }
+    .stungfisk3{
+        margin-left:200px;
+    }
+    .Lernmore{
+        margin-left:200px;
+    }
+    .premium{
+    margin-left: 800px;
+    height:300px;
+    width:500px;
+    }
+}

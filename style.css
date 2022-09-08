@@ -6,7 +6,7 @@ body {
 nav {
     top: 0px;
     left: 0px;
-    width: 1881px;
+    width: 1870px;
     height: 600px;
     padding: 10px 90px;
     box-sizing: border-box;
@@ -366,14 +366,8 @@ h1 {
 }
 
 #hii{
-    font-size:20px;
-    color:rgb(253, 253, 253)'
-}
-
-.Lernmore {
-    border-color: rgb(10, 123, 204);
-    color: blue;
-    background: rgba(0, 0, 0, 0);
+    font-size:15px;
+    color:rgb(255, 255, 255)'
 }
 .ariana{
     height: 120px;
@@ -382,7 +376,7 @@ h1 {
 }
 .dia{
     height:1200px;
-    width: 1875px;
+    width: 1870px;
     background-color:rgb(230, 248, 242);
     justify-content: center;
 }
@@ -424,150 +418,48 @@ h1 {
 .venusar3{
     font-size:17px;
     margin-top:-38px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.stungfisk{
+    height:600px;
+    width: 1870px;
+    background-color:rgb(194, 232, 234);
+    margin-top:-23px;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
-
-@media screen and (max-width:1540px) {
-    nav {
-        width: 1515px;
-        height: 500px;
-    }
-
-    nav .logo {
-        padding-top: 10px;
-        padding-left: 50px;
-        font-size: 25px;
-    }
-
-    nav .logo1 {
-        padding-top: 10px;
-        font-size: 25px;
-    }
-
-    nav ul {
-        padding-right: 50px;
-        margin-top: -10px;
-    }
-
-    h1 {
-        margin-left: 50px;
-        font-size: 45px;
-    }
-
-    .comeon {
-        height: 40px;
-        margin-left: 10px;
-        font-size: 12px;
-    }
-
-    .serchbar {
-        margin-left: 50px;
-        height: 80px;
-    }
-
-    .icons {
-        margin-left: 487px;
-        margin-top: -47px;
-        height: 45px;
-    }
-
-    .playstore1 {
-        margin-left: 50px;
-    }
-
-    .aa {
-        font-size: 12px;
-    }
-
-    .appstore1 {
-        margin-left: 240px;
-    }
-
-    .bb {
-        font-size: 13px;
-    }
-
-    .downl1 {
-        margin-left: 431px;
-    }
-
-    .cc {
-        margin-top: -25px;
-        font-size: 13px;
-    }
-
-    .gadgetsnow {
-        margin-left: 260px;
-    }
-
-    .charmelion {
-        margin-left: 200px;
-    }
-
-    .charizard {
-        margin-left: 450px;
-    }
-
-    .swampert {
-        margin-left: 750px;
-    }
-
-    .mewtow {
-        margin-left: 1040px;
-    }
-
-    .venusar {
-        margin-left: 200px;
-    }
-
-    .meganium {
-        margin-left: 850px;
-    }
-    #hii{
-        font-size:15px;
-    }
-    .rating{
-        font-size:13px;
-    }
-    .rating1{
-        font-size:13px;
-    }
-    .down2 {
-        width : 23px;
-        height : 23px;
-    }
-    .ariana{
-        height:100px;
-        width: 1515px;
-        margin-top:20px
-    }
-    .dia{
-        height:1300px;
-        width: 1515px;
-    }
-    .charmelion1{
-        height:190px;
-    }
-    .charmelion2{
-        font-size:15px;
-    }
-    .charmelion3{
-        font-size:15px;
-    }
-    .charizard1{
-        height:190px
-    }
-    .mewtow1{
-        height:190px
-    }
-    .venusar1{
-        font-size:20px;
-    }
-    .venusar2{
-        font-size:40px; 
-    }
-    .venusar3{
-        font-size:15px;
-        margin-top:-25px;
-    }
+.stungfisk1{
+    color:rgb(31, 134, 244);
+    margin-left:550px;
+    padding-top:150px;
+    font-size:25px; 
+}
+.stungfisk2{
+font-size:55px;
+color: rgb(29, 29, 29);
+margin-top:-18px;
+margin-left:550px;
+}
+.stungfisk3{
+    font-size: 25px;
+    font-weight: lighter;
+    margin-top:-35px;
+    margin-left:550px;
+    color:rgb(60, 57, 57);
+}
+.Lernmore{
+    border-color: rgb(10, 123, 204);
+    color: rgb(22, 106, 250);
+    background: rgba(0, 0, 0, 0);
+    margin-left:550px;
+    height:60px;
+    width:170px;
+    border-radius: 50px;
+    font-size:17px;
+    font-weight: bold;
+}
+.premium{
+    height:350px;
+    width:550px;
+    margin-left:1050px;
+    margin-top:-500px;
 }
