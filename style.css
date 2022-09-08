@@ -421,11 +421,11 @@ h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .stungfisk{
-    height:600px;
+    height:650px;
     width: 1870px;
     background-color:rgb(194, 232, 234);
     margin-top:-23px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .stungfisk1{
     color:rgb(31, 134, 244);
@@ -462,4 +462,41 @@ margin-left:550px;
     width:550px;
     margin-left:1050px;
     margin-top:-500px;
+}
+.piplup{
+    width: 1870px;
+    background-color: rgb(241, 255, 254);
+    margin-top:-30px;
+    height: 600px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image:url(./images/truecaller-impact.avif);
+    background-repeat:no-repeat;
+    background-size:900px 600px;
+}
+.piplup1{
+    font-size: 30px;
+    padding-left:1000px;
+    padding-top:200px;
+  
+}
+.piplup2{
+    font-size:50px;
+    margin-top: -35px;
+    margin-left:1000px;
+}
+.piplup3{
+    border-color: rgb(10, 123, 204);
+    color: rgb(22, 106, 250);
+    background: rgba(0, 0, 0, 0);
+    border-radius: 50px;
+    font-size:17px;
+    font-weight: bold;
+    margin-left:1000px;
+    height:60px;
+    width:170px;
+}
+.piplup4{
+    font-size:23px;
+    margin-top:-40px;
+    margin-left:1000px;
 }
