@@ -465,7 +465,7 @@ margin-left:550px;
 }
 .piplup{
     width: 1870px;
-    background-color: rgb(241, 255, 254);
+    background-color: rgb(255, 255, 255);
     margin-top:-30px;
     height: 600px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -499,4 +499,131 @@ margin-left:550px;
     font-size:23px;
     margin-top:-40px;
     margin-left:1000px;
+}
+.crowbat{
+    background-color:rgba(236, 245, 244, 0.89);
+    height:750px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:-40px;
+}
+.crowbat1{
+    color: rgb(30, 28, 28);
+    padding-top:40px;
+    font-size:55px;
+    padding-left:300px;
+}
+.crowbat2{
+    height:580px;
+    width: 460px;
+    background-color:white;
+    margin-top:-30px;
+    margin-left:300px;
+    border-radius:15px;
+}
+.crowbat2 p {
+    padding-left:40px;
+    padding-top:30px;
+    color: rgb(39, 159, 251);
+    font-weight:bold;
+}
+.crowbat2 img{
+    width: 460px;
+    height:300px;
+}
+.crowbat2 h6{
+    font-size:35px;
+    padding-left:20px;
+    letter-spacing:2px;
+    font-weight:bold ;
+    color: rgb(42, 40, 40);
+    margin-top:10px;
+    margin-bottom:0px;
+}
+.crowbat2 div{
+    font-size:15px;
+    padding-left:20px;
+    padding-top:20px;
+    font-weight: lighter;
+}
+.crowbat2 pre{
+    padding-left:20px;
+    font-size:13px;
+    padding-top:10px;
+    color: rgb(126, 121, 121);
+}
+.zoobat2{
+    height:580px;
+    width: 460px;
+    background-color:white;
+    margin-top:-600px;
+    margin-left:780px;
+    border-radius:15px;
+}
+.zoobat2 p {
+    padding-left:40px;
+    padding-top:30px;
+    color: rgb(39, 159, 251);
+    font-weight:bold;
+}
+.zoobat2  img{
+    width: 460px;
+    height:300px;
+}
+.zoobat2  h6{
+    font-size:35px;
+    padding-left:20px;
+    font-weight:bold ;
+    color: rgb(42, 40, 40);
+    margin-top:10px;
+    margin-bottom:0px;
+}
+.zoobat2  div{
+    font-size:15px;
+    padding-left:20px;
+    padding-top:20px;
+    font-weight: lighter;
+}
+.zoobat2 pre{
+    padding-left:20px;
+    font-size:13px;
+    padding-top:10px;
+    color: rgb(126, 121, 121);
+}
+.golbat2{
+    height:580px;
+    width: 460px;
+    background-color:white;
+    margin-top:-600px;
+    margin-left:1260px;
+    border-radius:15px;
+}
+.golbat2 p {
+    padding-left:40px;
+    padding-top:30px;
+    color: rgb(39, 159, 251);
+    font-weight:bold;
+}
+.golbat2  img{
+    width: 460px;
+    height:300px;
+}
+.golbat2  h6{
+    font-size:35px;
+    padding-left:20px;
+    font-weight:bold ;
+    color: rgb(42, 40, 40);
+    margin-top:10px;
+    margin-bottom:0px;
+}
+.golbat2  div{
+    font-size:15px;
+    padding-left:20px;
+    padding-top:20px;
+    font-weight: lighter;
+}
+.golbat2 pre{
+    padding-left:20px;
+    font-size:13px;
+    padding-top:10px;
+    color: rgb(126, 121, 121);
 }
