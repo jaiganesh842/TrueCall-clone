@@ -1,4 +1,0 @@
- <p class="piplup1" style="color:rgb(0, 166, 255);">IMPACT</p>
-            <h2 class="piplup2">Making an Impact through<br> Truecaller.</h2>
-            <p class="piplup4">Truecaller was created to identify who was calling, but today it is<br> being used to fight crime, and help loved ones.</p>
-            <a href="#"><button  class="piplup3" type="submit">Read more</button></a>
