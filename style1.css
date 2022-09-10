@@ -163,7 +163,114 @@
     height:300px;
     width:500px;
     }
+    .piplup{
+        width: 1515px;
+        height: 600px;
+        background-size:750px 600px;
+    }
+    .piplup1{
+        font-size: 20px;
+        padding-left:800px;
+        padding-top:200px;
+    }
+    .piplup2{
+    font-size:40px;
+    margin-top: -15px;
+    margin-left:800px;
+    }
+    .piplup4{
+        font-size:20px;
+        margin-top:-20px;
+        margin-left:800px;
+    }
+    .piplup3{
+        font-size:15px;
+        margin-left:800px;
+        height:50px;
+        width:160px;   
+    }
     .crowbat{
-
+        width: 1515px;
+        height: 650px;
+    }
+    .crowbat1{
+        padding-top:30px;
+        font-size:40px;
+        padding-left:200px;
+    }
+    .crowbat2{
+        height:480px;
+        width: 360px;
+        margin-top:-20px;
+        margin-left:200px;
+    }
+    .crowbat2 p
+    {
+        padding-left:30px;
+        padding-top:20px; 
+    }
+    .crowbat2 img{
+        width: 360px;
+        height:200px;
+    }
+    .crowbat2 h6 {
+        font-size:25px;
+    }
+    .crowbat2 div{
+        font-size:11px;
+        padding-top:10px;
+    }
+    .crowbat2 pre{
+        padding-top:50px;
+    }
+    .zoobat2{
+        height:480px;
+        width: 360px;
+        margin-top:-495px;
+        margin-left:580px;
+    }
+    .zoobat2 p
+    {
+        padding-left:30px;
+        padding-top:20px; 
+    }
+    .zoobat2 img{
+        width: 360px;
+        height:200px;
+    }
+    .zoobat2 h6 {
+        font-size:22px;
+    }
+    .zoobat2 div{
+        font-size:10px;
+        padding-top:10px;
+    }
+    .zoobat2 pre{
+        padding-top:50px;
+    }
+    .golbat2{
+        height:480px;
+        width: 360px;
+        margin-top:-495px;
+        margin-left:960px;
+    }
+    .golbat2 p
+    {
+        padding-left:30px;
+        padding-top:20px; 
+    }
+    .golbat2 img{
+        width: 360px;
+        height:200px;
+    }
+    .golbat2 h6 {
+        font-size:22px;
+    }
+    .golbat2 div{
+        font-size:10px;
+        padding-top:10px;
+    }
+    .golbat2 pre{
+        padding-top:50px;
     }
 }
